@@ -1,8 +1,8 @@
-﻿- Bryan Méndez
+- Bryan Méndez
 - Cristian Ycochea
 - Danica Vargas
 - Carlos Longobardi <CarlosLongMel>
 - Miguel Gambini
 - Carlos Villar
-- Josdy Valdez <Josdy>
+- Josdy Valdez 
 - Richard Cotrina <rcotrina94>
