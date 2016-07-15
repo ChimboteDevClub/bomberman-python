@@ -1,7 +1,7 @@
 - Bryan Méndez
 - Cristian Ycochea
 - Danica Vargas
-- Carlos Longobardi
+- Carlos Longobardi <CarlosLongMel>
 - Miguel Gambini
 - Carlos Villar
 - Josdy Valdez 
